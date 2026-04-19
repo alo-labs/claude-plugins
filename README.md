@@ -20,7 +20,7 @@ Then install any plugin by name:
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [silver-bullet](https://github.com/alo-exp/silver-bullet) | 0.23.3 | Agentic Process Orchestrator for AI-native Software Engineering & DevOps |
+| [silver-bullet](https://github.com/alo-exp/silver-bullet) | 0.23.4 | Agentic Process Orchestrator for AI-native Software Engineering & DevOps |
 
 ## Contributing
 

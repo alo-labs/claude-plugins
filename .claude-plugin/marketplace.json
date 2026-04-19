@@ -1,0 +1,20 @@
+{
+  "name": "alo-labs",
+  "owner": {
+    "name": "Ālo Labs",
+    "email": "hello@alolabs.io"
+  },
+  "metadata": {
+    "description": "Ālo Labs Claude Code plugin marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "silver-bullet",
+      "source": "github:alo-exp/silver-bullet",
+      "description": "Agentic Process Orchestrator for AI-native Software Engineering & DevOps. Enforced 20-step (app) and 24-step (DevOps) workflows with quality gates for Claude Code.",
+      "version": "0.23.3",
+      "strict": true
+    }
+  ]
+}

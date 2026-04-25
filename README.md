@@ -20,7 +20,8 @@ Then install any plugin by name:
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [silver-bullet](https://github.com/alo-exp/silver-bullet) | 0.23.4 | Agentic Process Orchestrator for AI-native Software Engineering & DevOps |
+| [silver-bullet](https://github.com/alo-exp/silver-bullet) | 0.26.0 | Agentic Process Orchestrator for AI-native Software Engineering & DevOps |
+| [topgun](https://github.com/alo-labs/topgun) | 1.7.0 | Find, compare, security-audit, and install the best available skill for any job from 16 active registries |
 
 ## Contributing
 

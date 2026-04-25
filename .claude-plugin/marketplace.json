@@ -11,16 +11,40 @@
   "plugins": [
     {
       "name": "silver-bullet",
-      "source": "github:alo-exp/silver-bullet",
+      "source": {
+        "source": "github",
+        "repo": "alo-exp/silver-bullet"
+      },
       "description": "Agentic Process Orchestrator for AI-native Software Engineering & DevOps. Enforced 20-step (app) and 24-step (DevOps) workflows with quality gates for Claude Code.",
       "version": "0.26.0",
+      "author": {
+        "name": "Alo Labs",
+        "email": "info@alolabs.dev"
+      },
+      "homepage": "https://github.com/alo-exp/silver-bullet",
+      "repository": "https://github.com/alo-exp/silver-bullet",
+      "license": "MIT",
+      "keywords": ["silver-bullet", "enforcement", "orchestrator", "gsd", "devops", "quality-gates", "ci-cd"],
+      "category": "development",
       "strict": true
     },
     {
       "name": "topgun",
-      "source": "github:alo-labs/topgun",
+      "source": {
+        "source": "github",
+        "repo": "alo-labs/topgun"
+      },
       "description": "Find, compare, security-audit, and install the best available skill for any job from 16 active registries.",
       "version": "1.7.0",
+      "author": {
+        "name": "Alo Labs",
+        "url": "https://github.com/alo-labs/topgun"
+      },
+      "homepage": "https://github.com/alo-labs/topgun",
+      "repository": "https://github.com/alo-labs/topgun",
+      "license": "MIT",
+      "keywords": ["topgun", "skills", "discovery", "security-audit", "registry", "installation"],
+      "category": "productivity",
       "strict": true
     }
   ]

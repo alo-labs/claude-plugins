@@ -25,6 +25,7 @@ Then install any plugin by name:
 | Sidekick | AI coding agents that let Claude delegate all coding, file-system, and git tasks via ForgeCode | `/plugin install sidekick@alo-labs` | [sidekick.alolabs.dev](https://sidekick.alolabs.dev) |
 | WOW | Autonomous WordPress performance optimization — audit, plan, execute, and verify Core Web Vitals improvements | `/plugin install wow@alo-labs` | [wow.alolabs.dev](https://wow.alolabs.dev) |
 | TopGun | Find, compare, security-audit, and install the best available skill from 16 active registries | `/plugin install topgun@alo-labs` | [topgun.alolabs.dev](https://topgun.alolabs.dev) |
+| Instadecks | Generate, review, and annotate polished presentation decks with DECK-VDA design review and auto-refine | `/plugin install instadecks@alo-labs` | [instadecks.alolabs.dev](https://instadecks.alolabs.dev) |
 
 ## Contributing
 

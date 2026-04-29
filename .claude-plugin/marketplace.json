@@ -24,7 +24,15 @@
       "homepage": "https://github.com/alo-exp/silver-bullet",
       "repository": "https://github.com/alo-exp/silver-bullet",
       "license": "MIT",
-      "keywords": ["silver-bullet", "enforcement", "orchestrator", "gsd", "devops", "quality-gates", "ci-cd"],
+      "keywords": [
+        "silver-bullet",
+        "enforcement",
+        "orchestrator",
+        "gsd",
+        "devops",
+        "quality-gates",
+        "ci-cd"
+      ],
       "category": "development",
       "strict": true
     },
@@ -43,7 +51,14 @@
       "homepage": "https://github.com/alo-exp/multai",
       "repository": "https://github.com/alo-exp/multai",
       "license": "MIT",
-      "keywords": ["multi-ai", "orchestration", "research", "playwright", "comparison-matrix", "deep-research"],
+      "keywords": [
+        "multi-ai",
+        "orchestration",
+        "research",
+        "playwright",
+        "comparison-matrix",
+        "deep-research"
+      ],
       "category": "productivity",
       "strict": true
     },
@@ -62,7 +77,15 @@
       "homepage": "https://github.com/alo-exp/sidekick",
       "repository": "https://github.com/alo-exp/sidekick",
       "license": "MIT",
-      "keywords": ["sidekick", "forge", "forgecode", "terminal-agent", "coding-agent", "openrouter", "orchestration"],
+      "keywords": [
+        "sidekick",
+        "forge",
+        "forgecode",
+        "terminal-agent",
+        "coding-agent",
+        "openrouter",
+        "orchestration"
+      ],
       "category": "development",
       "strict": true
     },
@@ -81,7 +104,13 @@
       "homepage": "https://alolabs.dev",
       "repository": "https://github.com/alo-labs/wow",
       "license": "MIT",
-      "keywords": ["wordpress", "optimization", "performance", "core-web-vitals", "autonomous"],
+      "keywords": [
+        "wordpress",
+        "optimization",
+        "performance",
+        "core-web-vitals",
+        "autonomous"
+      ],
       "category": "development",
       "strict": true
     },
@@ -100,7 +129,44 @@
       "homepage": "https://github.com/alo-labs/topgun",
       "repository": "https://github.com/alo-labs/topgun",
       "license": "MIT",
-      "keywords": ["topgun", "skills", "discovery", "security-audit", "registry", "installation"],
+      "keywords": [
+        "topgun",
+        "skills",
+        "discovery",
+        "security-audit",
+        "registry",
+        "installation"
+      ],
+      "category": "productivity",
+      "strict": true
+    },
+    {
+      "name": "instadecks",
+      "source": {
+        "source": "github",
+        "repo": "alo-exp/instadecks"
+      },
+      "description": "Generate, review, and annotate polished presentation decks. Four slash skills (/instadecks:create, /review, /content-review, /annotate) powered by pptxgenjs + DECK-VDA design review + Phase 5 auto-refine convergence loop. Polymorphic brief intake (JSON, markdown, raw text, files); 14 modern palettes, 9 typography pairings, 9 motifs, 30+ cookbook variants. 100% test coverage (1210 tests).",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ālo Labs",
+        "url": "https://alolabs.dev"
+      },
+      "homepage": "https://github.com/alo-exp/instadecks",
+      "repository": "https://github.com/alo-exp/instadecks",
+      "license": "Apache-2.0",
+      "keywords": [
+        "instadecks",
+        "presentations",
+        "pptx",
+        "powerpoint",
+        "decks",
+        "slides",
+        "design-review",
+        "auto-refine",
+        "pptxgenjs",
+        "productivity"
+      ],
       "category": "productivity",
       "strict": true
     }
